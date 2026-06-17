@@ -110,7 +110,7 @@ nav a{
 
 .image{
   height: 350px;
-  background: url(https://i.postimg.cc/mZ5g6pnC/Screenshot-0008-06-09-at-9-52-45-PM.png);
+  background: url("https://i.postimg.cc/m2dr1hPp/Screenshot-0008-06-17-at-2-25-27-PM.png");
   margin-bottom: 20px;
 }
 
@@ -133,7 +133,7 @@ nav a{
 .banner-inner{
   background:
     linear-gradient(rgba(255,248,250,.8),rgba(255,248,250,.8)),
-    url("https://i.postimg.cc/mZ5g6pnC/Screenshot-0008-06-09-at-9-52-45-PM.png")
+    url("https://i.postimg.cc/50q44tcw/Screenshot-0008-06-17-at-2-25-49-PM.png")
     center/cover;
   padding: 120px 40px;
   text-align: center;
